@@ -1,3 +1,5 @@
+<div style="font-family:'Times New Roman', Times, serif">
+
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
 </p>
@@ -11,27 +13,30 @@
 
 ---
 
+<table align="center" style="border: 2px solid #ccc; border-radius: 10px; padding: 10px;">
+<tr style="border: 2px solid #ccc;">
+<td width="50%" align="left" style="vertical-align:top; padding:10px; border-right: 2px solid #ccc;">
+
 - 🔭 I’m currently working on [ExcellyGen Enterprise LMS Project](https://github.com/UdaraExcellyGen)
 
 - 🌱 I’m currently learning **Java, C#, AI, and Machine Learning**
 
-- 👯 I’m looking to collaborate on **Open-source or freelance projects in web development, AI integration, or enterprise software**
-
-- 🤝 I’m looking for help with **Real-world projects that challenge me and help me grow**
-
-- 👨‍💻 All of my projects are available at [My GitHub Portfolio](https://github.com/AsithaUdara)
-
-- 📝 I regularly write articles on *(Coming soon on Medium or Dev.to)*
+- 🏫 I’m an Undergraduate at **UOM, Sri Lanka**
 
 - 💬 Ask me about **React, .NET, full stack web development, and building scalable applications**
 
 - 📫 How to reach me: **udarauni001@gmail.com**
 
-- 💼 LinkedIn: [linkedin.com/in/asithaudara](https://www.linkedin.com/in/asithaudara)
-
 - 📄 Know about my experiences: *(Portfolio or resume coming soon)*
 
-- ⚡ Fun fact: **I love building creative projects and sometimes daydream about futuristic apps 😄**
+</td>
+<td width="50%" align="center" style="padding:10px;">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -71,13 +76,16 @@
 
 ### 📊 My GitHub Stats:
 
-<table>
+<table align="center" style="font-family: 'Times New Roman', Times, serif;">
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=AsithaUdara&show_icons=true&theme=radical" alt="GitHub Stats"/>
+    <td align="center" style="border: 2px solid #ccc; border-radius: 10px; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=AsithaUdara&show_icons=true&theme=radical&hide_border=true&langs_count=8&card_width=420" width="420"/>
     </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsithaUdara&layout=compact&theme=radical" alt="Top Languages"/>
+    <td align="center" style="border: 2px solid #ccc; border-radius: 10px; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsithaUdara&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=420" width="420"/>
     </td>
   </tr>
 </table>
+
+
+</div>
