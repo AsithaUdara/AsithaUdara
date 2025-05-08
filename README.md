@@ -7,6 +7,12 @@
 <h1 align="center">Hi 👋, I'm Asitha Udara</h1>
 <h3 align="center">🚀 A passionate Full Stack Developer actively seeking job opportunities<br>🌍 From Sri Lanka | 💻 Skilled in React, .NET, Java, C#, AI, and Machine Learning</h3>
 
+<div id="user-content-toc">
+  <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&color=%23C8BE25&size=25&center=true&vCenter=true&width=620&lines=Passionate+Enthusiastic+and+Skilled+Undergraduate;Creative%2C+Smart+and+Easy-going+Individual;Responsible+and+Committed+Team+Player"></a>
+</p>
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=asithaudara&label=Profile%20views&color=0e75b6&style=flat" alt="asithaudara" />
 </p>
