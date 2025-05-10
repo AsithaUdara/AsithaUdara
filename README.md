@@ -23,11 +23,11 @@
 <tr style="border: 2px solid #ccc;">
 <td width="50%" align="left" style="vertical-align:top; padding:10px; border-right: 2px solid #ccc;">
 
-- 🔭 I’m currently working on [ExcellyGen Enterprise LMS Project](https://github.com/UdaraExcellyGen)
+- 🔭 I'm currently working on [ExcellyGen Enterprise LMS Project](https://github.com/UdaraExcellyGen)
 
-- 🌱 I’m currently learning **Java, C#, AI, and Machine Learning**
+- 🌱 I'm currently learning **Java, C#, AI, and Machine Learning**
 
-- 🏫 I’m an Undergraduate at **UOM, Sri Lanka**
+- 🏫 I'm an Undergraduate at **UOM, Sri Lanka**
 
 - 💬 Ask me about **React, .NET, full stack web development, and building scalable applications**
 
@@ -36,9 +36,9 @@
 - 📄 Know about my experiences: *(Portfolio or resume coming soon)*
 
 </td>
-<td width="50%" align="center" style="padding:10px;">
+<td width="50%" align="center" style="padding:0; vertical-align:middle;">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <img align="center" alt="Coding" width="100%" height="100%" style="display:block; max-width:100%; object-fit:cover;" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
 </td>
 </tr>
@@ -46,52 +46,54 @@
 
 ---
 
-### 🌐 Connect with me:
-
+<h3 align="center">My Statistics:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/asithaudara" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/asitha-udara" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-  <a href="https://fb.com/asitha.udara" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-  <a href="https://instagram.com/azy.udara" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/asitha_udara" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-</p>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AsithaUdara&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AsithaUdara&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
 
----
-
-### 🛠️ Languages and Tools:
-
-<p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/></a>
-</p>
-
----
-
-### 📊 My GitHub Stats:
-
-<table align="center" style="font-family: 'Times New Roman', Times, serif;">
-  <tr>
-    <td align="center" style="border: 2px solid #ccc; border-radius: 10px; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=AsithaUdara&show_icons=true&theme=radical&hide_border=true&langs_count=8&card_width=420" width="420"/>
-    </td>
-    <td align="center" style="border: 2px solid #ccc; border-radius: 10px; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsithaUdara&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=420" width="420"/>
-    </td>
-  </tr>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AsithaUdara&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
 </table>
 
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/asithaudara" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" /></a>
+<a href="https://stackoverflow.com/users/asitha-udara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="50" width="50" /></a>
+<a href="https://fb.com/asitha.udara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="50" /></a>
+<a href="https://instagram.com/azy.udara" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Instagram" height="50" width="50" /></a>
+<a href="https://www.hackerrank.com/asitha_udara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="50" width="50" /></a>
+</p>
+
+---
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
+<a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg" alt="React" width="50" height="50"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="50" height="50"/></a>
+<a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" width="50" height="50"/></a> 
+<a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="Java" width="50" height="50"/></a>
+<a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" alt="Python" width="50" height="50"/></a>
+<a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="50" height="50"/></a>
+<a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="50" height="50"/></a>
+<a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="50" height="50"/></a>
+<a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="50" height="50"/></a>
+<a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" width="50" height="50"/></a>
+<a href="#"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="50" height="50"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/></a>
+<a href="#"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="50" height="50"/></a>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="50" height="50"/></a>
+</p>
 
 </div>
